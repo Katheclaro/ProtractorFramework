@@ -35,7 +35,7 @@ describe('demo calculator test', function () {
             homepage.clickGo1();
             homepage.verifyResult('7');
     
-            browser.sleep(2000)
+            browser.sleep(3000)
  
         });
 });
